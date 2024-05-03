@@ -1,4 +1,6 @@
-# LAB-2-Library-Management
+## EX NO:2
+## DATE:28.02.2024
+# LIBRARY MANAGEMENT SYSTEM
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
